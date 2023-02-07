@@ -13,7 +13,7 @@
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href="https://nareshchoudhary02.github.io/Tin-Dog-Website/">here!</a></h2>
+<h2>📍 Access the Site <a href="https://n-dcool.github.io/Tin-Dog-Website/">here!</a></h2>
 
 <hr>
 
